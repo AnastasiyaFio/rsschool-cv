@@ -38,3 +38,9 @@ function bmi(weight, height) {
 
 Unfortunately, I don't have any programming experience yet.
 
+## Education:
+
+* **Belarusian State University** < br>
+                     - Social Psychology
+* **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
+
