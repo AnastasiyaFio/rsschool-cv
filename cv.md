@@ -1,7 +1,7 @@
 # Anastasiya Fiodorova
 
 ## Contact information: 
-
+qoiweuqoiweuoqjfhnjksdlnfjksbdvlkjsz
 **Phone:** +375(29)2692951 <br >
 **E-mail:** anastasiya_fio@mail.ru <br >
 **Telegram:** @anastasiya_fio <br >
